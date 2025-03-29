@@ -11,4 +11,6 @@ uses   :
   - npm i --save-dev @types/swagger-ui-express
 2. Auto generate clients in various languages (Java, JS, Go…)
 2. Let the world look at your API routes shape without actually opening your code
-4. Let AIs know how to hit your APIs in a single file, without sharing your code with the AI
+4. Let AIs know how to hit your APIs in a single file, without sharing your code with the AI.
+
+## Hono + Zod + OpenAPI 
